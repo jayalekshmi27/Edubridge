@@ -1,1 +1,1 @@
-Iam doing post graduate certification in DataAnalytics.This repository contains all the Hackathons/Datathons,competitions an challenges of data analytics,presented in the form of Jupyter Notebooks.
+Iam doing post graduate certification in DataAnalytics.This repository contains all the projects and assignments o DataAnalytics worked during the course.
