@@ -7,4 +7,11 @@ It is an Exploratory Data Analysis.In this EDA,we are analysing the Apps found o
 Project 2:
 Machine Learning Analysis on Startup Data
 
+Tools used:
+The python libraries used:
+1)Pandas
+2)NumPy
+3)Matplotlib
+4)Seaborn
+
 
