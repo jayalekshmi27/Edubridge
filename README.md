@@ -1,6 +1,6 @@
 Iam doing post graduate certification in DataAnalytics at the institute of Edubridgeindia.
 
-This repository is mainly for projects I have done under this program.
+This repository is mainly for various programms that I have done in python jupyter notebooks,various EDA,Machine learning projects,various Dashboards etc I have done under this program.
 
 Edu-Bridge Career Academy. EduBridge Career Academy is skill development and vocational training organization started by the Indian Institute of Management alumni to bridge the gap between semi-urban/economically backward youth and skill requirement of the high performing companies/government organizations.
 
