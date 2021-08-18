@@ -16,5 +16,19 @@ The python libraries used:
 Project 2:
 Machine Learning Analysis on Startup Data
 
+The python libraries used:
+1)Pandas
+
+2)NumPy
+
+3)Matplotlib
+
+4)Seaborn
+
+5)sklearn
+
+
+
+
 
 
