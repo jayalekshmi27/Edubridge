@@ -7,6 +7,9 @@ EXCEL DASHBOARDS-OLYMPIC MEDALS SUPERSTORE DATA
 Excel dashboards make it easy to perform quick overviews of data reports rather than going through large volumes of data. 
 Overviews help in making quick and urgent decisions since one can skim through a lot of information at once and within a short time.
 
+This dataset is a list of all the medal winners in the Summer Olympics from 1976 Montreal to 2008 Beijing. It includes each and every medal awarded within the period. This dataset is intended for beginners so that they can get a taste of advanced Excel functions which is perhaps one of the key skills required to be a great data scientist. I too got my hands dirty with the dataset and played with some advanced Excel functions. Further, this dataset can also be used for a predictive model as to which country is likely to fetch the highest number of gold in a particular sports category (just an example), etc.
+
+
 It is Olympic season. Everyone I know is tracking the games and checking their country’s performance. One thing that we notice when looking at medal tally is,
 A single Gold medal is worth more than any number of Silver medals. Like wise, a single Silver medal is worth more than any number of Bronze medals.
 So, when you look at the ranking of countries, you see countries with single Gold medal higher up than countries with lots of Silver and Bronze medals (but no Gold).
